@@ -2,14 +2,14 @@
 
 <!-- 🍃 Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Computer+Science+Student+%7C+Flutter+Dev;Learning+Golang+and+Growing+Step+by+Step">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Information+Technology+Student+%7C+Flutter+Dev;Learning+Golang+and+Growing+Step+by+Step">
 </h1>
 
 ---
 
 <!-- 🌱 About -->
 ### About Me  
-I’m Omar — a Computer Science student who likes to build things that feel simple and thoughtful.  
+I’m Omar — a Information Technology student who likes to build things that feel simple and thoughtful.  
 I learn by doing, failing, and doing again — kind of like a calm adventure where the code slowly teaches you back.  
 
 🧭 Exploring **Go** for backend systems and performance.  
