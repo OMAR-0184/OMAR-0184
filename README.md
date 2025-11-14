@@ -2,7 +2,9 @@
 
 <!-- 🍃 Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Information+Technology+Student+%7C+Flutter+Dev>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Information+Technology+Student+%7C+Flutter+Dev" 
+  />
 </h1>
 
 ---
