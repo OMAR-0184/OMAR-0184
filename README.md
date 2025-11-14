@@ -2,7 +2,7 @@
 
 <!-- 🍃 Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Information+Technology+Student+%7C+Flutter+Dev;Learning+Golang+and+Growing+Step+by+Step">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Omar+🌤️;Information+Technology+Student+%7C+Flutter+Dev>
 </h1>
 
 ---
@@ -24,7 +24,7 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
 ### My Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,go,firebase,git,linux,vscode,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,firebase,git,linux,vscode,androidstudio&theme=light" />
 </p>
 
 <p align="center">
@@ -56,17 +56,6 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
 
 ---
 
-<!-- 🧮 LeetCode -->
-### LeetCode Progress  
-
-<p align="center">
-  <a href="https://leetcode.com/u/omarabdullah0184/">
-    <img src="https://img.shields.io/badge/LeetCode-00b894?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-
----
-
 <!-- 🌐 Socials -->
 ### Connect  
 
@@ -79,6 +68,9 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
   </a>
   <a href="https://github.com/OMAR-0184">
     <img src="https://img.shields.io/badge/GitHub-263238?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+    <a href="https://leetcode.com/u/omarabdullah0184/">
+    <img src="https://img.shields.io/badge/LeetCode-00b894?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
 
