@@ -80,10 +80,6 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
   <a href="https://github.com/OMAR-0184">
     <img src="https://img.shields.io/badge/GitHub-263238?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-   <a href="https://omarabdullah.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FFC0CB?logo=safari&logoColor=white&style=for-the-badge" />
-
-  </a>
 </p>
 
 ---
