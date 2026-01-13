@@ -32,8 +32,6 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
 
 ---
 
-<!-- 📊 Stats -->
-### GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMAR-0184&show_icons=true&theme=merko&hide_border=true&bg_color=0f2d2d&title_color=7fffd4&icon_color=9effc3" height="165"/>
