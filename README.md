@@ -28,9 +28,7 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,firebase,git,linux,vscode,androidstudio&theme=light" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OMAR-0184&bg_color=0f2d2d&color=7fffd4&line=5fd7a6&point=c0ffee&area=true&hide_border=true" width="90%" />
-</p>
+
 
 ---
 
