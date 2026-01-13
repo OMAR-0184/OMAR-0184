@@ -13,8 +13,7 @@
 ### About Me  
 I’m Omar — a Information Technology student who likes to build things that feel simple and thoughtful.  
 I learn by doing, failing, and doing again — kind of like a calm adventure where the code slowly teaches you back.  
-
-🧭 Exploring **Go** for backend systems and performance.  
+ 
 📱 Building with **Flutter**, focusing on clean, minimal design.  
 🧩 I enjoy solving small real-world problems with code that stays maintainable.  
 
