@@ -66,9 +66,6 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
   <a href="https://github.com/OMAR-0184">
     <img src="https://img.shields.io/badge/GitHub-263238?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-    <a href="https://leetcode.com/u/omarabdullah0184/">
-    <img src="https://img.shields.io/badge/LeetCode-00b894?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
 </p>
 
 ---
