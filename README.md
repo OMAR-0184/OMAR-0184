@@ -17,7 +17,6 @@ I learn by doing, failing, and doing again — kind of like a calm adventure whe
 📱 Building with **Flutter**, focusing on clean, minimal design.  
 🧩 I enjoy solving small real-world problems with code that stays maintainable.  
 
-> “Code is like wind — invisible, but it moves everything.” 🌤️  
 
 ---
 
