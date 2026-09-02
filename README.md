@@ -11,8 +11,6 @@ IT student at Jadavpur University, building with Flutter and FastAPI.
 `Flutter · FastAPI · PostgreSQL`
 
 ## Elsewhere
-
-- Solved 1000+ DSA problems (LeetCode, Codeforces, CSES)
 - Knight badge on LeetCode, peak rating 2056
 - Top 1% (rank 420/35,000+) in LeetCode Weekly Contest 466
 - Finalist, Hacktropica (MLH hackathon)
